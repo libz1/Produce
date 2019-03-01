@@ -1,0 +1,55 @@
+
+(none) login: root
+
+
+BusyBox v1.22.1 (2017-06-22 20:33:32 CST) built-in shell (ash)
+Enter 'help' for a list of built-in commands.
+
+
+Processing /etc/profile... Set search library path
+Set user path
+Done
+
+[root@(none) ~]# init_dev
+
+*********************************************
+currnet version compiled at Sep 18 2018 10:08:45
+*********************************************
+action select:
+-----0--init dev, but not init ms infor
+-----1--init dev
+-----2--set wireless server ip :192.168.127.127
+-----3--set wireless server port :9027
+-----4--set wireless back_server ip :192.168.127.127
+-----5--set wireless back_server port :9027
+-----6--set wireless server apn :CMNET
+-----7--set jzq dev id :000000000001
+-----8--set DEBUG com mode: UP_COMM mode
+-----9--cosole com as up com: 9600-8-e
+-----10--set gprs apn username:CARD
+-----11--set gprs apn password:CARD
+-----12--set gprs_heart_beat :00060
+-----13--set net server ip :192.168.127.127
+-----14--set net server tcp port :9027
+-----15--set net back_server ip :192.168.127.127
+-----16--set net back_server port :9027
+-----17--set net_heart_beat :00300
+-----18--set customer_id :
+-----20--reset AC sampling meter
+-----21--reset AC sampling meter parameter area
+-----22--reset AC sampling meter data area
+-----23--config the 485_2 com mode:read ex_485 mode[cascade mastermode]
+-----27--the 485_2 as ac/up com baud =2400-e
+-----28--cur_time:18-09-19 14:06:22
+-----29--factory_info :GW180918
+-----30--current modem type : GB3763
+-----33--set gprs send delay sec : 0
+-----40--set terminal IP :192.168.127.244
+-----41--set terminal subnet mask:255.255.255.000
+-----49--set record print info to file switch:close
+-----50--set vendor code:SJ-3
+-----81--set asset_no :
+-----88-- list jzq param info
+-----98-- exit without reset
+-----99-- exit and reset
+input the choice>
